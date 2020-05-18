@@ -1,0 +1,2 @@
+# Tweet-Disaster
+Tweets are a the new way of expressing emotions, sharing news, promoting brands etc. It has also become a strong force that enables people let their voices/feelings known to a company, Government or to the whole world. People often take to such social media platforms to share something. But given the volume of tweets, its often difficult to quickly identify whether a tweet is alarming something.
